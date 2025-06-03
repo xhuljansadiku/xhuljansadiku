@@ -84,5 +84,3 @@ I provide comprehensive web solutions tailored to your requirements:
 I welcome the opportunity to discuss your next project, explore potential collaborations, or answer any questions you may have. Let’s build something exceptional together!
 
 ---
-
-> *“Building the web—one line of code at a time.”*  
