@@ -60,26 +60,6 @@ As a versatile developer, I offer end-to-end web solutions tailored to your uniq
 
 ---
 
-## 🌟 Selected Projects
-
-1. **E-Commerce Store for Local Fashion Brand**  
-   Full Shopify implementation with custom theme, third-party integrations (payment gateways, email marketing), and responsive design.  
-   ▶️ [Live Demo](https://fashion-brand-demo.com) | 🔗 [GitHub Repo](https://github.com/xhuljansadiku/shopify-fashion)
-
-2. **React-Powered Portfolio Platform**  
-   A dynamic portfolio site built with React, Node.js, and MongoDB, featuring an admin dashboard to manage projects, blog posts, and contact inquiries.  
-   ▶️ [Live Site](https://xhuljan-portfolio.com) | 🔗 [GitHub Repo](https://github.com/xhuljansadiku/react-portfolio)
-
-3. **Booking & Reservation System**  
-   Custom back-end in Laravel for a small hotel chain. Features room management, calendar availability, email notifications, and secure payment integration.  
-   🔗 [GitHub Repo](https://github.com/xhuljansadiku/laravel-hotel-booking)
-
-4. **SEO-Optimized Business Website**  
-   WordPress theme development with speed optimizations, on-page SEO (schemas, meta tags), and Google Analytics integration.  
-   ▶️ [Live Site](https://business-insights.com) | 🔗 [GitHub Repo](https://github.com/xhuljansadiku/wp-seo-business)
-
----
-
 ## 📈 Why Work With Me
 
 - **Client-Centered Approach**  
