@@ -83,6 +83,4 @@ I’m always happy to discuss new projects, partnerships, or answer any question
 📝 Final Note
 Thank you for visiting my GitHub profile. If you’re looking for a reliable full-stack developer to bring your next idea to life, let’s chat!  
 
-> *“Building the web one line of code at a time.”*  
-
 ```
