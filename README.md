@@ -1,5 +1,5 @@
 ```markdown
-👋 Welcome to My GitHub – I’m Xhuljan Sadiku
+👋 Welcome to My GitHub
 
 
 🚀 Who I Am
