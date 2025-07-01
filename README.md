@@ -1,86 +1,70 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi there, I'm Xhuljan Sadiku
+
+💻 **Junior Software Developer | Fachinformatiker AE Student | Java & React Enthusiast**
+
+📍 Weiden i.d.Opf., Bayern, Germany
 
 ---
 
 ## 🚀 About Me
-I’m **Xhuljan Sadiku**, a dedicated Full Stack Developer specializing in building modern, responsive, and high-performance web applications. With expertise across front-end and back-end technologies, I help businesses establish a strong online presence and achieve their digital goals.
+
+I am a motivated Junior Software Developer currently completing my *Umschulung* as a Fachinformatiker für Anwendungsentwicklung at Kolping Bildungswerk Weiden. I am passionate about building modern, responsive, and high-performance web applications, and I am continuously improving my skills in Java, Spring Boot, and frontend frameworks.
 
 ---
 
-## 💼 Services Offered
-I provide comprehensive web solutions tailored to your requirements:
+## 🛠️ **Technical Skills**
 
-- **Custom Website Development**  
-  Design and build websites—ranging from single-page landing pages to complex multi-page platforms—that align with your brand identity, engage users, and drive conversions.
+**Languages & Frameworks:**
+- Java (OOP, GUI, Spring Boot)
+- JavaScript (ES6+), React
+- Python, Django
+- SQL (PostgreSQL)
+- Bootstrap
 
-- **E-Commerce & Online Stores**  
-  Develop secure, scalable e-commerce solutions with WooCommerce, Shopify, or custom platforms to facilitate seamless online sales and payment processing.
+**Tools & Technologies:**
+- Git (Branching, Pull Requests, Code Reviews)
+- Docker
+- Linux (Ubuntu), Windows
 
-- **Responsive Design & UI/UX**  
-  Implement mobile-first, intuitive interfaces and pixel-perfect layouts that deliver an exceptional user experience across desktop, tablet, and mobile devices.
-
-- **Back-End & API Development**  
-  Create robust back-end systems and RESTful APIs using Node.js, Express, or PHP/Laravel. Manage data, authentication, and third-party integrations securely and efficiently.
-
-- **SEO & Performance Optimization**  
-  Optimize site speed, accessibility, and on-page SEO to improve search engine rankings and deliver a fast, reliable experience for visitors.
-
-- **Content Management Systems (CMS)**  
-  Set up and customize CMS solutions (WordPress, Strapi, or custom-built) so you can easily manage content without requiring ongoing developer support.
-
-- **Ongoing Support & Maintenance**  
-  Provide continuous support after launch—regular updates, backups, security audits, and feature enhancements—to keep your site running smoothly.
+**Currently learning:**
+- Advanced Spring Boot (REST APIs, Security)
+- React Hooks & Context API
+- CI/CD basics with GitHub Actions
 
 ---
 
-## 🛠️ Technical Skill Set
+## 💡 **Projects**
 
-### Front-End
-- **Languages:** HTML5, CSS3 (Sass), JavaScript (ES6+)
-- **Frameworks/Libraries:** React, Vue.js, Bootstrap, Tailwind CSS
-- **Tools:** Webpack, Gulp, npm/Yarn, Git/GitHub
+🔧 I am currently working on:
+- **Bookstore REST API** – Spring Boot CRUD application with PostgreSQL  
+- **React Weather App** – Fetching data from public APIs with responsive UI
 
-### Back-End
-- **Languages/Runtime:** Node.js, PHP
-- **Frameworks:** Express.js, Laravel, NestJS
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
-### DevOps & Hosting
-- **Platforms:** Heroku, Vercel, Netlify, AWS (S3, EC2, RDS)
-- **CI/CD:** GitHub Actions, Travis CI
-- **Containers:** Docker
-
-### Additional Tools & Services
-- **Version Control:** Git (branching strategies, pull requests, code reviews)
-- **API Integration:** REST, GraphQL, Stripe, PayPal, Firebase
-- **Testing:** Jest, Mocha, PHPUnit
-- **Design & Prototyping:** Figma, Adobe XD, Canva
-- **Analytics & SEO:** Google Analytics, Google Search Console, Lighthouse
+Check out my pinned repositories below for detailed README, technologies used, and deployment links (coming soon).
 
 ---
 
-## 📈 Why Partner With Me
+## 🎯 **Goals**
 
-- **Client-Centered Approach**  
-  I invest time to understand your objectives, target audience, and budget—ensuring solutions are aligned with your business goals and deliver measurable results.
-
-- **Clear & Timely Communication**  
-  Receive consistent updates on project progress, transparent timelines, and best-practice recommendations throughout the development process.
-
-- **Quality & Reliability**  
-  I write clean, maintainable, and well-documented code following industry standards. Rigorous testing ensures performance, security, and accessibility are prioritized.
-
-- **Scalable & Future-Ready Solutions**  
-  Whether you need a simple brochure site or a complex web application, I design with scalability in mind so your platform can grow as your business evolves.
+✔️ Complete my Fachinformatiker AE Umschulung by July 2025  
+✔️ Build a strong portfolio of backend and frontend projects  
+✔️ Start working as a Junior Developer (Java / Full Stack) in Germany
 
 ---
 
-## 📫 Let’s Connect
+## 🌐 **Languages**
 
-- **Email:** [xsadiku@hotmail.com](mailto:xsadiku@hotmail.com)  
-- **LinkedIn:** [linkedin.com/in/xhuljansadiku](https://www.linkedin.com/in/xhuljansadiku)  
-- **GitHub:** [github.com/xhuljansadiku](https://github.com/xhuljansadiku)  
-
-I welcome the opportunity to discuss your next project, explore potential collaborations, or answer any questions you may have. Let’s build something exceptional together!
+- 🇩🇪 German: B1/B2 (improving daily)
+- 🇬🇧 English: B2
+- 🇦🇱 Albanian: Native
+- 🇸🇪 Swedish: Basic
 
 ---
+
+## 🤝 **Let's Connect**
+
+- 📧 [xsadiku@hotmail.com](mailto:xsadiku@hotmail.com)
+- 🔗 [LinkedIn](linkedin.com/in/xhuljansadiku)
+- 💻 [GitHub](github.com/xhuljansadiku)
+
+I am open to junior developer opportunities, collaborations, and mentorship connections. Let’s build something exceptional together!
+
