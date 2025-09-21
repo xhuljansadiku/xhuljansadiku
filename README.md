@@ -7,7 +7,7 @@
 
 ## 🚀 About Me  
 
-💻 Software Developer & Fachinformatiker AE Student (2023–2025)  
+💻 Software Developer & Fachinformatiker AE
 📍 Based in Weiden i.d.Opf., Bayern, Germany  
 
 I started coding in **2018** and love building **modern, responsive, and efficient web applications**.  
