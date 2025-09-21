@@ -7,11 +7,11 @@
 
 ## 🚀 About Me  
 
-💻 Junior Software Developer & Fachinformatiker AE Student (2023–2025)  
+💻 Software Developer & Fachinformatiker AE Student (2023–2025)  
 📍 Based in Weiden i.d.Opf., Bayern, Germany  
 
 I started coding in **2018** and love building **modern, responsive, and efficient web applications**.  
-Currently focused on **JavaScript, Vue.js, and Java (Spring Boot basics)**, while expanding my full-stack skills.  
+Currently focused on **JavaScript, Vue.js, and Java**, while expanding my full-stack skills.  
 
 ---
 
