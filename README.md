@@ -10,7 +10,7 @@
 💻 Software Developer & Fachinformatiker AE
 📍 Based in Weiden i.d.Opf., Bayern, Germany  
 
-I started coding in **2018** and love building **modern, responsive, and efficient web applications**.  
+I started coding in **2020** and love building **modern, responsive, and efficient web applications**.  
 Currently focused on **JavaScript, Vue.js, and Java**, while expanding my full-stack skills.  
 
 ---
