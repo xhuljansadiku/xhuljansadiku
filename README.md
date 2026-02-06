@@ -54,7 +54,7 @@ I enjoy building **clean, responsive, and user-friendly web applications** and c
 
 ## 🌍 Languages  
 
-- 🇩🇪 German – B1  
+- 🇩🇪 German – B1–B2 (improving)
 - 🇬🇧 English – Fluent  
 - 🇦🇱 Albanian – Native  
 - 🇸🇪 Swedish – Basic  
