@@ -6,12 +6,12 @@
 
 ## 👋 About Me  
 
-[cite_start]I am a **Certified Application Developer (Fachinformatiker für Anwendungsentwicklung, IHK)** based in **Weiden i.d.OPf., Bavaria**[cite: 2, 6, 28]. 
+I am a **Certified Application Developer (Fachinformatiker für Anwendungsentwicklung, IHK)** based in **Weiden i.d.OPf., Bavaria**. 
 
-- [cite_start]🚀 Currently focusing on **Modern Frontend Development** (Vue.js & Next.js)[cite: 8].
-- [cite_start]🎓 Recently completed my official **IHK qualification** (January 2026).
-- [cite_start]💻 Experienced in building clean, responsive, and high-performance web applications[cite: 9, 57].
-- [cite_start]🛠️ Comfortable working in **Agile environments (Scrum)** using Jira and Confluence[cite: 14, 16, 41].
+- 🚀 Currently focusing on **Modern Frontend Development** (Vue.js & Next.js).
+- 🎓 Recently completed my official **IHK qualification** (January 2026).
+- 💻 Experienced in building clean, responsive, and high-performance web applications.
+- 🛠️ Comfortable working in **Agile environments (Scrum)** using Jira and Confluence.
 
 ---
 
@@ -41,18 +41,18 @@
 
 ## 💡 Featured Projects  
 
-- [cite_start]🌐 **[Bardhi Wellness](https://www.bardhiwellness.com/)** – Responsive web application with **Stripe & PayPal** integration[cite: 46, 50].
-- [cite_start]🏗️ **[ESM Group](https://esm-group.eu/)** – Enterprise web solution focusing on performance and **Leaflet.js** integration[cite: 53, 56, 57].
-- [cite_start]💼 **[Palushi Brothers](https://palushibrothers.co.uk/)** – Business application with interactive UI components using **jQuery**[cite: 59, 61].
+- 🌐 **[Bardhi Wellness](https://www.bardhiwellness.com/)** – Responsive web application with **Stripe & PayPal** integration.
+- 🏗️ **[ESM Group](https://esm-group.eu/)** – Enterprise web solution focusing on performance and **Leaflet.js** integration.
+- 💼 **[Palushi Brothers](https://palushibrothers.co.uk/)** – Business application with interactive UI components using **jQuery**.
 
 ---
 
 ## 🌍 Languages  
 
-- [cite_start]🇩🇪 **German** – B2 (Professional/Business) [cite: 33]
-- [cite_start]🇬🇧 **English** – B2 (Fluent) [cite: 33]
-- [cite_start]🇦🇱 **Albanian** – Native [cite: 33]
-- [cite_start]🇸🇪 **Swedish** – A2 (Basic) [cite: 33]
+- 🇩🇪 **German** – B2 (Professional/Business)
+- 🇬🇧 **English** – B2 (Fluent)
+- 🇦🇱 **Albanian** – Native
+- 🇸🇪 **Swedish** – A2 (Basic)
 
 ---
 
@@ -64,7 +64,7 @@ I am looking for a position as a **(Junior) Software Developer** or **Web Develo
 
 ## 🤝 Connect With Me  
 
-[cite_start]📧 **Email:** [xhuljansadiku@gmail.com](mailto:xhuljansadiku@gmail.com) [cite: 4]
+📧 **Email:** [xhuljansadiku@gmail.com](mailto:xhuljansadiku@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/xhuljansadiku](https://linkedin.com/in/xhuljansadiku)
 💻 **GitHub:** [github.com/xhuljansadiku](https://github.com/xhuljansadiku)
 
