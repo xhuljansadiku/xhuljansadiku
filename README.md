@@ -59,7 +59,7 @@ I am a **Certified Application Developer (Fachinformatiker für Anwendungsentwic
 
 ## 🎯 Career Goal  
 
-I am looking for a position as a **(Junior) Software Developer** or **Web Developer** where I can contribute to innovative projects, especially in the field of modern web technologies and AI-driven solutions.
+I am looking for a position as a **Software Developer** or **Web Developer** where I can contribute to innovative projects, especially in the field of modern web technologies and AI-driven solutions.
 
 ---
 
