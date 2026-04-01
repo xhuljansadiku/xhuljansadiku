@@ -41,7 +41,7 @@ I am a **Certified Application Developer (Fachinformatiker für Anwendungsentwic
 
 ## 💡 Featured Projects  
 
-- 🌐 **[Bardhi Wellness](https://www.bardhiwellness.com/)** – Responsive web app for Bardhi Wellness — HTML/CSS/JS, Bootstrap — **Stripe & PayPal** checkout.
+- 🌐 **[Bardhi Wellness](https://www.bardhiwellness.com/)** – Responsive client-facing web application built with HTML, CSS, and JavaScript on Bootstrap, with Stripe and PayPal payment integration.
 - 🏗️ **[ESM Group](https://esm-group.eu/)** – Enterprise web solution focusing on performance and **Leaflet.js** integration.
 - 💼 **[Palushi Brothers](https://palushibrothers.co.uk/)** – Business application with interactive UI components using **jQuery**.
 
